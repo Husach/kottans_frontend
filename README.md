@@ -17,3 +17,6 @@ Task 02 - Course 00
 
 Task 02 - Course 01
 ![Screenshot](task_01/course_01.jpg)
+
+Task 03 - HTML5 and CSS Fundamentals - edx
+![Screenshot](task_03/edx.jpg)
