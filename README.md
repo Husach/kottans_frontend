@@ -1,4 +1,5 @@
-This information was interesting, but I already knew a lot.
+Task 00
+          -  This information was interesting, but I already knew a lot.
 
 Task 01 - Linux Command Line Basics
 
