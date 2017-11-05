@@ -20,3 +20,6 @@ Task 02 - Course 01
 
 Task 03 - HTML5 and CSS Fundamentals - edx
 ![Screenshot](task_03/edx.jpg)
+
+Task 04 - Responsive Web Design Fundamentals
+![Screenshot](task_04/course.jpg)
