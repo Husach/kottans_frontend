@@ -32,3 +32,7 @@ Task 03 - HTML5 and CSS Fundamentals
 Task 04 - Responsive Web Design Fundamentals
 
 ![Screenshot](task_04/course.png)
+
+Task 05 - Intro to JS
+
+![Screenshot](task_05/task_05.jpg)
