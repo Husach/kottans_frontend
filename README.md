@@ -42,3 +42,7 @@ Task 06 - Object-Oriented JavaScript
 ![Screenshot](task_06/task_01.jpg)
 
 ![Screenshot](task_06/task_01.jpg)
+
+Task 07 - Offline Web Applications
+
+![Screenshot](task_07/task_07.jpg)
