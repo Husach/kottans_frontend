@@ -36,3 +36,9 @@ Task 04 - Responsive Web Design Fundamentals
 Task 05 - Intro to JS
 
 ![Screenshot](task_05/task_05.jpg)
+
+Task 06 - Object-Oriented JavaScript
+
+![Screenshot](task_06/task_01.jpg)
+
+![Screenshot](task_06/task_01.jpg)
